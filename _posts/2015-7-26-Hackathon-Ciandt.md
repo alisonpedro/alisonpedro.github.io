@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Hackathon CI&T - think.make.move( ) - 26/set/15
+title: Hackathon CI&T - think.make.move( ) - 26/jul/15
 ---
+Vamos misturar crise hídrica, impressora 3D, IoT, algumas APIs e um monte de gente que curte programação de software. Qual vai ser o resultado? Nosso próximo hackathon, que conectará aqueles que querem usar a tecnologia para transformar realidades.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
