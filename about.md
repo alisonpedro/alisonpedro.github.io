@@ -4,11 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi, I am a self-taught <strong>Full-Stack developer</strong>, focusing on PHP for Back- end development with a specialism in Laravel applications. I have around 5+ year experience in creating scalable and high load web applications.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about <strong>yourself</strong>.
 
 ### Contact me
 
