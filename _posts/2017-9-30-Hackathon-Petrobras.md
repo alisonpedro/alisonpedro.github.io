@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hackathon Postos Petrobras - 30/set/17
+description: O Hackathon Postos Petrobras é uma competição promovida pela Petrobras Distribuidora que desafia entusiastas do segmento de tecnologia e inovação a criarem soluções digitais.
 
 ---
 
