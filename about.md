@@ -9,7 +9,7 @@ Hi, I am a self-taught <strong>Full-Stack developer</strong>, focusing on PHP fo
 
 ### Contact me
 
-<a href="https://instagram.com/alisonpedro">https://www.linkedin.com/in/alisonpedro</a>
+<a href="https://instagram.com/alisonpedro">https://www.linkedin.com/in/alisonpedro</a><br>
 <a href="https://instagram.com/alisonpedro">https://instagram.com/alisonpedro</a>
 
 
